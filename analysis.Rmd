@@ -1,0 +1,13 @@
+---
+title: "Analysis"
+author: "Donny"
+date: "February 23, 2018"
+output: html_document
+---
+
+stat coding
+
+```{r}
+setwd("C:\\Users\\donny\\Documents\\GitHub\\BasicsofAppliedStatisticalModelingwithR\\resources")
+```
+
